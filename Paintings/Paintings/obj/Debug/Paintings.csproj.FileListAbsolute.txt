@@ -1,0 +1,15 @@
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\bin\Debug\Paintings.exe.config
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\bin\Debug\Paintings.exe
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\bin\Debug\Paintings.pdb
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\obj\Debug\Paintings.csprojAssemblyReference.cache
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\obj\Debug\MainWindow.g.cs
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\obj\Debug\App.g.cs
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\obj\Debug\Paintings_MarkupCompile.cache
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\obj\Debug\Paintings_MarkupCompile.lref
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\obj\Debug\MainWindow.baml
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\obj\Debug\Paintings.g.resources
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\obj\Debug\Paintings.Properties.Resources.resources
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\obj\Debug\Paintings.csproj.GenerateResource.cache
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\obj\Debug\Paintings.csproj.CoreCompileInputs.cache
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\obj\Debug\Paintings.exe
+C:\Users\АбдишевМ\source\repos\Paintings\Paintings\obj\Debug\Paintings.pdb
